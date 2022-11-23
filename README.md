@@ -65,7 +65,7 @@ This will package all of your changes into a commit which is now ready to be pus
 
 You have now created and pushed your commit to the main repository, congratulations!
 
-### 5. Pull any other changes
+### 5. Pull any changes
 
 Once changes have been made to the main repository, you can pull them to update your local repository. To do this in GitHub Desktop simply click the "Pull origin" button.
 
