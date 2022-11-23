@@ -47,7 +47,7 @@ Enter your name as the file name (making sure to replace any spaces with undersc
 
 Your file should now be highlighted in green in the side bar in VSCode, this indicates that the file is new and has not been pushed to the main repository yet (it only resides in your local repo until you push your change).
 
-### 4. Create a pull request
+### 4. Push your changes
 
 The next step is to create push your change to the main repository.
 
@@ -65,11 +65,16 @@ This will package all of your changes into a commit which is now ready to be pus
 
 You have now created and pushed your commit to the main repository, congratulations!
 
+### 5. Pull any other changes
+
+Once changes have been made to the main repository, you can pull them to update your local repository. To do this in GitHub Desktop simply click the "Pull origin" button.
+
+![Pulling changes](images/pull_from_main.png)
+
+If you now reopen VSCode, you should be able to see the changes reflected onto your local repository. If someone else has created a file and pushed it, it will now appear in your local repository for you to work and collaborate on.
+
 ### What now?
 
-Refer to [these docs about GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow), which is very
-similar to what we just did, but with branches within a single repository
+Refer to [these docs about GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow), which is very similar to what we just did, but with branches within a single repository.
 
-Try uploading one of your projects to GitHub using the things you learnt today.
-
-Ask questions! Tag me (Tom#4831) or Yomi (Yomi#2706) on Discord and we'll gladly answer
+Try uploading one of your projects to GitHub using the things you learnt today!
